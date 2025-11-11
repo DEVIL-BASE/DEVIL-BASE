@@ -29,13 +29,6 @@ I'm a passionate cybersecurity enthusiast, student, and content creator focused 
 - **[Labs-Progress-Tracker](https://github.com/DEVIL-BASE/Labs-Progress-Tracker)**: Track your practical cybersecurity lab progress.
 - **[EMAIL_OSINT](https://github.com/DEVIL-BASE/EMAIL_OSINT)**: Open source tool for email OSINT research.
 
-## 🏴 About Me
-
-- 🏫 Class 10 CBSE student, Ranchi, Jharkhand
-- 🕵️ Self-taught in ethical hacking, Kali Linux, and penetration testing
-- 📺 Security content creator on YouTube ([cyber_base.01](https://www.youtube.com/@cyber_base.01))
-- ❤️ Passionate about open-source security tools
-
 ## 🎯 My Interests
 
 - Cybersecurity & ethical hacking
@@ -58,10 +51,6 @@ I'm a passionate cybersecurity enthusiast, student, and content creator focused 
 <img src="https://img.shields.io/badge/-Burp%20Suite-EE7624?style=flat&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Hydra-DC143C?style=flat&logo=hydra&logoColor=white"/>
 <img src="https://img.shields.io/badge/-John%20the%20Ripper-4CAF50?style=flat&logo=johntheripper&logoColor=white"/>
-
-- Kali Linux, penetration testing basics
-- Industry tools: Burp Suite, John the Ripper, Hydra
-- Python scripting, network and web application security basics
 
 ## 📈 GitHub Stats
 
