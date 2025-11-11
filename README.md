@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4q35HhR7q3VqY/giphy.gif" alt="Cybersecurity GIF" width="600"/>
+  <img src="https://media.giphy.com/media/Id6PaXwDzK7Yw/giphy.gif" alt="Cybersecurity Animated" width="600"/>
 </p>
 
 <p align="center">
@@ -10,9 +10,10 @@
   <a href="https://github.com/DEVIL-BASE?tab=followers">
     <img src="https://img.shields.io/github/followers/DEVIL-BASE?style=social&color=yellowgreen" alt="GitHub Followers" />
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/twitter/follow/your_twitter_handle?style=social&color=skyblue" alt="Twitter Follow" />
-  </a>
+  <!-- Remove this Twitter badge if not needed -->
+  <!-- <a href="https://twitter.com/"> -->
+  <!--   <img src="https://img.shields.io/twitter/follow/your_twitter_handle?style=social&color=skyblue" alt="Twitter Follow" /> -->
+  <!-- </a> -->
 </p>
 
 ---
